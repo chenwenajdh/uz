@@ -88,7 +88,7 @@
         "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/subaibai.js",
         "instance": "sbb20240624",
         "webSite": "https://www.subaibaiys.com",
-        "remark": "",
+        "remark": "高清",
         "version": "2",
         "type": 100
     },
@@ -98,7 +98,7 @@
         "codeID": "ra5Z3wtXKshzSMK2",
         "instance": "gzapp20241001",
         "webSite": "https://api.9cec79d.com",
-        "remark": "",
+        "remark": "高清",
         "version": "2",
         "type": 100
     },
@@ -108,7 +108,7 @@
         "codeID": "iExLk0gfrJUJ5RPB",
         "instance": "jcy20240823",
         "webSite": "http://43.142.232.217:8090",
-        "remark": "",
+        "remark": "动漫",
         "version": "5",
         "type": 100
     },
@@ -117,7 +117,7 @@
         "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/laobai.js",
         "instance": "laobai20240831",
         "webSite": "https://apk-lb-json.fodexin.com",
-        "remark": "",
+        "remark": "听书",
         "version": "2",
         "type": 100
     }
