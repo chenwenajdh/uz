@@ -1,0 +1,124 @@
+[
+    {
+        "name": "🧸玩偶哥哥",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/wogg.js",
+        "webSite": "https://www.wogg.net",
+        "remark": "网盘",
+        "version": "3",
+        "type": 101
+    },
+    {
+        "name": "☁️云盘资源",
+        "codeID": "",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/resyunpan.js",
+        "instance": "resYunPan20241120",
+        "webSite": "https://res.yunpan.win",
+        "remark": "网盘",
+        "version": 1,
+        "type": 100
+    },
+     {
+        "name": "🪵木偶哥哥",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/mogg.js",
+        "webSite": "http://www.muoupan.top",
+        "remark": "网盘",
+        "version": "2",
+        "type": 101
+    },
+    {
+        "name": "🍚小米网盘",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/xiaomi.js",
+        "webSite": "http://www.mucpan.cc",
+        "remark": "网盘",
+        "version": "3",
+        "type": 101
+    },
+    {
+        "name": "📎至臻网盘",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/zhizhen.js",
+        "webSite": "https://mihdr.top",
+        "remark": "网盘",
+        "version": "3",
+        "type": 101
+    },
+    {
+        "name": "🖍️蜡笔小新",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/labipan.js",
+        "webSite": "https://duopan.fun",
+        "remark": "网盘",
+        "version": "3",
+        "type": 101
+    },
+    {
+        "name": "🤠多多影音",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/duoduo.js",
+        "webSite": "https://tv.yydsys.top",
+        "remark": "网盘",
+        "version": "3",
+        "type": 101
+    },
+    {
+        "name": "🎉欧歌资源",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ouge.js",
+        "webSite": "https://woog.nxog.eu.org",
+        "remark": "网盘",
+        "version": "3",
+        "type": 101
+    },
+    {
+        "name": "🤙🏻六趣网盘",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/liuqu.js",
+        "webSite": "https://wp.0v.fit",
+        "remark": "网盘",
+        "version": "1",
+        "type": 101
+    },
+ {
+            "name": "🔎趣盘搜",
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/proversion2024/uz-extensions/refs/heads/master/vod/js/funletu.txt",
+            "codeID": "LO5aQSJYBZLrRD1g",
+            "instance": "funletu20241124",
+            "webSite": "https://pan.funletu.com",
+            "remark": "搜索",
+            "version": "3",
+            "type": 100
+        },
+    {
+        "name": "🛁素白白",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/subaibai.js",
+        "instance": "sbb20240624",
+        "webSite": "https://www.subaibaiys.com",
+        "remark": "",
+        "version": "2",
+        "type": 100
+    },
+    {
+        "name": "🌻瓜子",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzapp.js",
+        "codeID": "ra5Z3wtXKshzSMK2",
+        "instance": "gzapp20241001",
+        "webSite": "https://api.9cec79d.com",
+        "remark": "",
+        "version": "2",
+        "type": 100
+    },
+    {
+        "name": "🍟囧次元",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/jcy.js",
+        "codeID": "iExLk0gfrJUJ5RPB",
+        "instance": "jcy20240823",
+        "webSite": "http://43.142.232.217:8090",
+        "remark": "",
+        "version": "5",
+        "type": 100
+    },
+    {
+        "name": "🎧老白听书",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/laobai.js",
+        "instance": "laobai20240831",
+        "webSite": "https://apk-lb-json.fodexin.com",
+        "remark": "",
+        "version": "2",
+        "type": 100
+    }
+]
